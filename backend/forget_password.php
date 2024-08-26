@@ -42,7 +42,7 @@ if (isset($_POST["email"])) {
         $mail->Subject = "Password Reset";
 
         // Create a password reset link
-        $resetLink = "http://localhost/php%20projects/IdeaPulse/create_new_password.php?token=" . urlencode($token);
+        $resetLink = "http://localhost/php%20projects/idea_pulse/create_new_password.php?token=" . urlencode($token);
         $mail->Body = "Click <a href='{$resetLink}'>here</a> to reset your password.";
 
         // Attempt to send the email

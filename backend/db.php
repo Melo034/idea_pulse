@@ -5,7 +5,7 @@
 $host = 'localhost';
 $dbname   = 'idea_pulse';
 $username = 'root';
-$password = '12345';
+$password = '';
 $charset = 'utf8mb4';
 
 // Data Source Name (DSN) for connecting to the database
