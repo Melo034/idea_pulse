@@ -17,7 +17,7 @@ session_start();
 
             <form action="./backend/forget_password.php" method="POST" class="w-full max-w-sm md:w-1/2 border border-rose-600 p-10 bg-black shadow-xl shadow-rose-600 border-rose-600 ">
                 <h1 class="text-4xl p-4 text-center font-bold tracking-wide">
-                    <span style="font-family: 'Elsie Swash Caps', serif; font-weight: 900; font-style: normal;"><span class="text-rose-400">FactQuest</span></span>
+                    <span style="font-family: 'Elsie Swash Caps', serif; font-weight: 900; font-style: normal;"><span class="text-rose-400">IdeaPulse</span></span>
                 </h1>
                 <div>
                     <div class="flex flex-col mb-3">
