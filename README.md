@@ -1,6 +1,6 @@
 # IDEAPULSE
 
-**IDEAPULSE** deaPulse is an interactive platform where users can share, explore, and vote on compelling ideas submitted by others. The community's feedback helps highlight the most promising concepts, making it a collaborative way to bring ideas to life.
+**IDEAPULSE** is an interactive platform where users can share, explore, and vote on compelling ideas submitted by others. The community's feedback helps highlight the most promising concepts, making it a collaborative way to bring ideas to life.
 
 ## Website Screenshots
 ![pitch_idea](https://github.com/user-attachments/assets/9544abb9-ffdb-4f48-a999-1bce5e033052)
