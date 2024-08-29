@@ -44,7 +44,7 @@ Before installing and running the project locally, ensure that you have the foll
 
 ## Installation Steps
 
-To set up FACTQUEST on your local machine, follow these steps:
+To set up idea pulse on your local machine, follow these steps:
 
 1. **Download the Project:**
    - Run git clone or Download the ZIP file of the project from the repository.
