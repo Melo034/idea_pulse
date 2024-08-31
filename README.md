@@ -82,7 +82,6 @@ To set up idea pulse on your local machine, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/ideapulse.git
-   cd ideapulse
 ## or
  **Download the Project:**
    - Download the ZIP file of the project from the repository.
