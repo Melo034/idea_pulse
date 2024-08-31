@@ -82,21 +82,15 @@ To set up idea pulse on your local machine, follow these steps:
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/yourusername/ideapulse.git
-## or
- **Download the Project:**
-   - Download the ZIP file of the project from the repository.
 
 2. **Navigate to the project directory:**
    ```bash
    cd ideapulse
- ## or
- **Extract the Project Files:**
-   - Unzip the downloaded file.
 
 3. **Set up your local server:**
    - If using Laragon or Xampp, place the project folder in the www/htdocs directory.
      - For XAMPP: `c:/xampp/htdocs`
-     - or Laragon: `c:/laragon/www`
+     - For Laragon: `c:/laragon/www`
    - Start the server.
    - Navigate to your local server directory. This is typically:
    ```bash
