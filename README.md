@@ -20,8 +20,33 @@
 
 ## Features
 
-- **Responsive Design:** Optimized for all devices.
-- **User-Friendly Interface:** Easy navigation and intuitive design.
+### 1. User Authentication
+- **Secure Registration and Login**: Users can securely register and log in to their accounts.
+- **Password Recovery and Update**: Provides functionality for password recovery and updates.
+
+### 2. Idea Submission
+- **Submit Ideas**: Users can submit their ideas with detailed descriptions.
+- **Categorization**: Option to categorize ideas for better organization and discovery.
+
+### 3. Idea Exploration
+- **Browse Ideas**: Users can explore a list of submitted ideas.
+
+### 4. Voting System
+- **Vote on Ideas**: Users can vote on ideas they find compelling.
+
+### 5. Responsive Design
+- **Mobile-Friendly**: The interface is designed to be mobile-friendly.
+- **Consistent UX**: Ensures a consistent user experience across different devices.
+
+### 6. Interactive UI
+- **Modern Interface**: Features a modern and intuitive user interface.
+- **Tailwind CSS**: Utilizes Tailwind CSS for a sleek and responsive design.
+
+
+### 7. Performance
+- **Fast Loading Times**: Optimized for fast loading times.
+- **Efficient Database Queries**: Implements efficient database queries and caching mechanisms.
+.
 
   
 ## Technology Overview
