@@ -81,11 +81,11 @@ To set up idea pulse on your local machine, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/ideapulse.git
+   git clone https://github.com/yourusername/idea_pulse.git
 
 2. **Navigate to the project directory:**
    ```bash
-   cd ideapulse
+   cd idea_pulse
 
 3. **Set up your local server:**
    - If using Laragon or Xampp, place the project folder in the www/htdocs directory.
@@ -107,7 +107,7 @@ To set up idea pulse on your local machine, follow these steps:
 ## Usage
 1. **Navigate to the project directory:**
    ```bash
-   http://localhost/agentabu
+   http://localhost/idea_pulse
   
 
 ## Live Demo
