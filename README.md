@@ -2,20 +2,28 @@
 
 **IDEAPULSE** is an interactive platform where users can share, explore, and vote on compelling ideas submitted by others. The community's feedback helps highlight the most promising concepts, making it a collaborative way to bring ideas to life.
 
+## Table of Contents
+
+1. [Website Screenshots](#website-screenshots)
+2. [Features](#features)
+3. [Technology Overview](#technology-overview)
+   - [Front End](#front-end)
+   - [Back End](#back-end)
+4. [Installation Requirements](#installation-requirements)
+5. [Installation Steps](#installation-steps)
+6. [Usage](#usage)
+
 ## Website Screenshots
 ![pitch_idea](https://github.com/user-attachments/assets/9544abb9-ffdb-4f48-a999-1bce5e033052)
 
 ![idea_pitch](https://github.com/user-attachments/assets/29a729e2-5801-49b9-8904-cc466c562bad)
 
-## Table of Contents
+## Features
 
-1. [Technology Overview](#technology-overview)
-   - [Front End](#front-end)
-   - [Back End](#back-end)
-2. [Installation Requirements](#installation-requirements)
-3. [Installation Steps](#installation-steps)
-4. [Live Demo](#live-demo)
+- **Responsive Design:** Optimized for all devices.
+- **User-Friendly Interface:** Easy navigation and intuitive design.
 
+  
 ## Technology Overview
 
 ### Front End
@@ -46,25 +54,42 @@ Before installing and running the project locally, ensure that you have the foll
 
 To set up idea pulse on your local machine, follow these steps:
 
-1. **Download the Project:**
-   - Run git clone or Download the ZIP file of the project from the repository.
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/yourusername/ideapulse.git
+   cd ideapulse
+**or
+ **Download the Project:**
+   - Download the ZIP file of the project from the repository.
 
-2. **Extract the Project Files:**
+2. **Navigate to the project directory:**
+   ```bash
+   cd ideapulse
+**or
+ **Extract the Project Files:**
    - Unzip the downloaded file.
-   - Navigate to your local server directory. This is typically:
+
+3. **Set up your local server:**
+   - If using Laragon or Xampp, place the project folder in the www/htdocs directory.
      - For XAMPP: `c:/xampp/htdocs`
-     - For Laragon: `c:/laragon/www`
-   - Copy the extracted project folder into this directory.
+     - or Laragon: `c:/laragon/www`
+   - Start the server.
+   - Navigate to your local server directory. This is typically:
+   ```bash
+   http://localhost/
 
-3. **Set Up the Database:**
-   - Start the Apache and MySql server to allow local hosting of the application.
+4. **Set Up the Database:**
    - Open your web browser (Google Chrome or Mozilla Firefox recommended).
-   - Go to `http://localhost/phpmyadmin`.
-   - Import the .sql file into your database system (MySQL).
-     
+   - Go to
+   ```bash
+   http://localhost/phpmyadmin
+  -Import the .sql file into your database system (MySQL). 
 
-5. **Run the Project:**
-   - After setting up the database, navigate to `http://localhost/[PROJECT_FOLDER_NAME]/` in your browser to access the application.
+## Usage
+1. **Navigate to the project directory:**
+   ```bash
+   http://localhost/agentabu
+  
 
 ## Live Demo
 
