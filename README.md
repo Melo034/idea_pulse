@@ -83,14 +83,14 @@ To set up idea pulse on your local machine, follow these steps:
    ```sh
    git clone https://github.com/yourusername/ideapulse.git
    cd ideapulse
-**or
+## or
  **Download the Project:**
    - Download the ZIP file of the project from the repository.
 
 2. **Navigate to the project directory:**
    ```bash
    cd ideapulse
-**or
+ ## or
  **Extract the Project Files:**
    - Unzip the downloaded file.
 
@@ -108,8 +108,9 @@ To set up idea pulse on your local machine, follow these steps:
    - Go to
    ```bash
    http://localhost/phpmyadmin
-  -Import the .sql file into your database system (MySQL). 
 
+ - Import the .sql file into your database system (MySQL). 
+ 
 ## Usage
 1. **Navigate to the project directory:**
    ```bash
